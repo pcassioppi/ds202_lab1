@@ -1,0 +1,14 @@
+---
+title: "partner_Spencer.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partner info
++ Peter Cassioppi - pcassioppi
++ added Rmd and html files, 2b9f1cdbd9c3565c85dc531c821a3fa67459dc8d
++ Knitted without issue
++ Google everything
