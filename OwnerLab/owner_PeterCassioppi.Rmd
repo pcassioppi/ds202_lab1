@@ -1,0 +1,13 @@
+---
+title: "owner_PeterCassioppi"
+author: "Peter Cassioppi"
+date: "9/5/2019"
+output: html_document
+---
+
+Peter Cassioppi
+I tell them I study MIS
+
+Make things consistent, easy to understand, and as simple as possible
+
+I like the Chicago Bears
